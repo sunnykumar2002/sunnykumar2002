@@ -1,8 +1,7 @@
-[![masterhead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.conceptseating.com%2Fwp-content%2Fuploads%2F2021%2F01%2FMarket-Programming-Banner.jpg&tbnid=ASp4quFEMkargM&vet=12ahUKEwjXtY6bvs6EAxWQmWMGHaQFBHIQMygTegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fwww.conceptseating.com%2Fmarkets%2Fit-programming%2Fattachment%2Fmarket-programming-banner%2F&docid=2qkMS3oD6o5HbM&w=1500&h=600&q=banner%20coding&ved=2ahUKEwjXtY6bvs6EAxWQmWMGHaQFBHIQMygTegUIARCGAQ)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <h3 align="center">I'm Frontend Developer..</h3>
-<img align="right" alt="coding" with="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas.gif">
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnykumar2002&label=Profile%20views&color=0e75b6&style=flat" alt="sunnykumar2002" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
